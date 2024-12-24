@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravindra Reddy Koti</h1>
+<h1 align="center">Hi 👋, I'm Ravi K </h1>
 <h3 align="center">"Data Engineer & Analyst | Transforming Data into Insights and Stories"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindrareddykoti&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrareddykoti" /> </p>
